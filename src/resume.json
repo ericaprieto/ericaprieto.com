@@ -1,0 +1,179 @@
+{
+  "techs": {
+    "workWith": [
+      "JavaScript",
+      "TypeScript",
+      "Node.js",
+      "HTML",
+      "CSS",
+      "React.js",
+      "Next.js",
+      "GraphQL",
+      "Apollo",
+      "Redux",
+      "Jenkins",
+      "CircleCI",
+      "Docker",
+      "Heroku",
+      "TestCafe",
+      "WebdriverIO",
+      "PostgreSQL"
+    ],
+    "wouldWorkWith": [
+      "React Native",
+      "Gatbsy.js",
+      "Electron",
+      "Vue.js",
+      "Ionic"
+    ],
+    "wouldntWorkWith": [
+      "Angular",
+      "jQuery",
+      "Ember",
+      "WordPress",
+      "PHP",
+      ".NET"
+    ]
+  },
+  "internationalExperience": [
+    {
+      "company": "Klarna",
+      "country": "Sweden",
+      "period": "since dec/2018",
+      "description": "I moved to Sweden to work at Klarna and help them bring their payment solutions to even more customers"
+    },
+
+    {
+      "company": "Facilitate Digital",
+      "country": "Australia",
+      "period": "from mar/2012 to jun/2012",
+      "description": "While working for Admotion, I helped with the creation of the rich media team at Facilitate Digital, in Sydney."
+    },
+    {
+      "company": "Admotion",
+      "country": "Argentina",
+      "period": "august 2010 and march 2012",
+      "description": "I attended to JavaScript trainings and helped with the development of AFA, Admotion's main product."
+    }
+  ],
+  "history": [
+    {
+      "company": "Tweak.com",
+      "position": "Front-End Team Lead and Senior Developer",
+      "period": "since mar/2020",
+      "description": "",
+      "techs": ["TypeScript", "JavaScript", "React.js", "Fabric.js", "CSS"]
+    },
+    {
+      "company": "Klarna",
+      "position": "Senior JavaScript Developer",
+      "period": "from dec/2018 to dec/2019",
+      "description": "At the swedish bank Klarna I worked to create the smoothest payment experiences for our customers and partners.",
+      "techs": [
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "React.js",
+        "CSS",
+        "Jenkins",
+        "Docker",
+        "TestCafe",
+        "WebdriverIO"
+      ]
+    },
+    {
+      "company": "HE:labs & Ignus Digital",
+      "position": "Senior JavaScript Developer",
+      "period": "from may/2017 to dec/2018",
+      "description": "I worked at Ignus, from the HE:labs group, as a web developer, specialized in front-end and javascript technologies in general.",
+      "techs": [
+        "JavaScript",
+        "Node.js",
+        "Next.js",
+        "React.js",
+        "React Native",
+        "Redux",
+        "Apollo",
+        "Ionic",
+        "CSS",
+        "SASS",
+        "Cordova",
+        "GraphQL",
+        "PostgreSQL",
+        "CircleCI",
+        "Heroku"
+      ]
+    },
+    {
+      "company": "EcoStage",
+      "position": "Senior JavaScript Developer",
+      "period": "from nov/2016 to apr/2017",
+      "description": "EcoStage is the leading company in developing socio-environmental projects, there I worked as front-end developer",
+      "techs": [
+        "JavaScript",
+        "React.js",
+        "Redux",
+        "redux-saga",
+        "Immutable.js",
+        "CSS",
+        "SASS"
+      ]
+    },
+    {
+      "company": "Interativa Events",
+      "position": "Senior Web Developer",
+      "period": "from may/2015 to may/2016",
+      "description": "Acted as head developer, planning and coding most of the company's projects. Every week, we created apps for our customers' events, like survey apps, social media totems, RFID systems and games.",
+      "techs": [
+        "JavaScript",
+        "React.js",
+        "Redux",
+        "CSS",
+        "LESS",
+        "Cordova",
+        "Electron",
+        "Node.js",
+        "MySQL",
+        "Digital Ocean"
+      ]
+    },
+    {
+      "company": "Havik/Kenoby",
+      "position": "Senior Front-End Developer",
+      "period": "from nov/2013 to fev/2015",
+      "description": "At Havik, one of the biggest HR Consulting Firms in Sao Paulo, I've developed Kenoby, which is an applicant tracking software that improves head hunters efficiency and precision.",
+      "techs": [
+        "JavaScript",
+        "jQuery",
+        "Backbone",
+        "Angular.js",
+        "React.js",
+        "CSS",
+        "LESS",
+        "Codeship CI",
+        "Digital Ocean"
+      ]
+    },
+    {
+      "company": "ListenX",
+      "position": "Front-End Developer",
+      "period": "from jan/2013 to out/2013",
+      "description": "I've designed and developed the front-end of many of the company's internal and external softwares, focusing in usability and user experience.",
+      "techs": ["JavaScript", "jQuery", "Backbone", "CSS", "LESS"]
+    },
+    {
+      "company": "Admotion",
+      "position": "Web Developer",
+      "period": "from apr/2009 to nov/2012",
+      "description": "With Admotion, I've had the chance to build internal and external projects using many tools and languages, like ActionScript, Flash Media Server, .NET, PHP.",
+      "techs": ["JavaScript", "jQuery", "CSS", "Flash", "C#", "PHP", "MySQL"]
+    },
+    {
+      "company": "RTI Consulting",
+      "position": "Web Developer",
+      "period": "from jan/2004 to fev/2006",
+      "description": "I've developed several projects from conception to delivery, like e-commerces, websites, and custom CMSs.",
+      "techs": ["JavaScript", "jQuery", "CSS", "PHP", "MySQL"]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+export default {
+  breakpoint: 610,
+  headerHeight: 63,
+  headerBreakpoint: 710,
+  blogMaxWidth: 650,
+  baseColor: "#8e44ad",
+  lightBackgroundColor: "#ffffff",
+  darkBackgroundColor: "#f7f6f2",
+  darkBackgroundTextColor: "#727477",
+  darkBackgroundLinkHoverColor: "#888888",
+  titleColor: "#7f8c8d",
+  textColor: "#7f8c8d",
+  highlightedTextColor: "#2a2a2a",
+  titleFont: "Poppins",
+  textFont: "Noto Serif",
+}

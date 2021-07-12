@@ -1,0 +1,148 @@
+[
+  {
+    "name": "Cornerstone City",
+    "description": "I've developed a game for AstraZeneca in which sales representatives interact with a virtual city, visiting potential clients and answering quizzes, in order to train time management, schedule organization and to learn about the company's products.<br/><br/>The participants can score, receive trophies and achievements, and at the end of each semester, the best ones are awarded by AstraZeneca.",
+    "ratio": 1.333333,
+    "screenshot": [
+      "/img/cases/cornerstone-city/1.jpg",
+      "/img/cases/cornerstone-city/2.jpg",
+      "/img/cases/cornerstone-city/3.jpg",
+      "/img/cases/cornerstone-city/4.jpg"
+    ]
+  },
+  {
+    "name": "AstraZeneca's Evaluation App",
+    "description": "Also for AstraZeneca, I've developed an app for managers to assess their representatives in several different situations. The entire application can be customized. Besides the visual identity, you can set the attributes to be evaluated and situations to be simulated.",
+    "ratio": 1.3333333,
+    "screenshot": [
+      "/img/cases/avaliacao/az-commerce/1.jpg",
+      "/img/cases/avaliacao/az-commerce/5.jpg",
+      "/img/cases/avaliacao/cornerstone/1.jpg",
+      "/img/cases/avaliacao/cornerstone/8.jpg",
+      "/img/cases/avaliacao/xigduo/1.jpg",
+      "/img/cases/avaliacao/xigduo/5.jpg",
+      "/img/cases/avaliacao/xigduo/7.jpg"
+    ]
+  },
+  {
+    "name": "Selozok Gameshow",
+    "description": "In this project, I created a game show application for AstraZeneca, which sought a fun and different way to reward their employees at the company convention.",
+    "ratio": 1.7866,
+    "screenshot": [
+      "/img/cases/selozok-gameshow/1.jpg",
+      "/img/cases/selozok-gameshow/2.jpg",
+      "/img/cases/selozok-gameshow/3.jpg",
+      "/img/cases/selozok-gameshow/4.jpg",
+      "/img/cases/selozok-gameshow/5.jpg"
+    ]
+  },
+  {
+    "name": "Alcon",
+    "description": "Three totems with quizzes for an Alcon event where doctors answered questions and competed for prizes. After each interaction, participants could take a picture and share on social networks. There was also a real-time updated ranking displayed on a television.",
+    "ratio": 1.6,
+    "screenshot": [
+      "/img/cases/acrysof/1.jpg",
+      "/img/cases/acrysof/2.jpg",
+      "/img/cases/acrysof/3.jpg",
+      "/img/cases/acrysof/4.jpg",
+      "/img/cases/acrysof/5.jpg",
+      "/img/cases/acrysof/6.jpg",
+      "/img/cases/acrysof/7.jpg",
+      "/img/cases/acrysof/8.jpg"
+    ]
+  },
+  {
+    "name": "GE Healthcare",
+    "description": "A registration app for GE events. A totem where the event attendees could register, select areas of interest and receive relevant content via email.",
+    "ratio": 1.3688,
+    "screenshot": [
+      "/img/cases/ge-healthcare/1.jpg",
+      "/img/cases/ge-healthcare/2.jpg",
+      "/img/cases/ge-healthcare/3.jpg",
+      "/img/cases/ge-healthcare/4.jpg"
+    ]
+  },
+  {
+    "name": "VW Timeline",
+    "description": "In a 55\" touch screen, we told the Volkswagen story in Brazil with an interactive timeline. This panel is still used in company events across the country.",
+    "ratio": 1.791,
+    "screenshot": ["/img/cases/volkswages-timeline/1.jpg"]
+  },
+  {
+    "name": "Nielsen - Rumo a 2016",
+    "description": "An app developed for Nielsen, in which the employees competed in quizzes and monthly draws for 2016 Olympics tickets.",
+    "ratio": 1.5,
+    "screenshot": [
+      "/img/cases/nielsen-rumo-a-2016/1.jpg",
+      "/img/cases/nielsen-rumo-a-2016/2.jpg",
+      "/img/cases/nielsen-rumo-a-2016/3.jpg"
+    ]
+  },
+  {
+    "name": "Prodigo Films",
+    "description": "In this project, I developed a CMS where the administrator can manage all of the site content, blog and video portfolio through a simple and friendly interface, fully developed with the user's needs in focus.",
+    "ratio": 1.5,
+    "screenshot": [
+      "/img/cases/prodigo-films/1.jpg",
+      "/img/cases/prodigo-films/2.jpg",
+      "/img/cases/prodigo-films/3.jpg"
+    ]
+  },
+  {
+    "name": "VivaBem",
+    "description": "VivaBem is a healthcare startup for your family and employees. Their app centralizes in a single multi-platform app, the data from all of your wearables, medical data and doctor appointments.",
+    "ratio": 1.5,
+    "screenshot": [
+      "/img/cases/viva-bem/1.jpg",
+      "/img/cases/viva-bem/2.jpg",
+      "/img/cases/viva-bem/3.jpg",
+      "/img/cases/viva-bem/4.jpg"
+    ]
+  },
+  {
+    "name": "Kenoby",
+    "description": "At Havik, one of the biggest HR Consulting Firms in Sao Paulo, I've developed Kenoby, which is an applicant tracking software that improves head hunters efficiency and precision.",
+    "ratio": 1.5755,
+    "screenshot": [
+      "/img/cases/kenoby/1.jpg",
+      "/img/cases/kenoby/2.jpg",
+      "/img/cases/kenoby/3.jpg"
+    ]
+  },
+  {
+    "name": "Admotion Validate",
+    "description": "Admotion is an ADServer company. We worked together on various projects from 2009 to 2012. In 2014, I developed a software for the validation of swf ad files specifications and images, helping the company to increase not only productivity, but the whole service quality.",
+    "ratio": 1.5,
+    "screenshot": ["/img/cases/admotion-validate/1.jpg"]
+  },
+  {
+    "name": "Listen X",
+    "description": "ListenX is the number one in use of music as a sensory marketing tool. By 2013, I was responsible for the design and front-end development.",
+    "ratio": 1.666666,
+    "screenshot": [
+      "/img/cases/listen-x/1.jpg",
+      "/img/cases/listen-x/2.jpg",
+      "/img/cases/listen-x/3.jpg"
+    ]
+  },
+  {
+    "name": "Rosenrot",
+    "description": "Rosenrot is a brazillian independent fashion brand. In this project, I developed the website and the e-commerce.",
+    "ratio": 1.5,
+    "screenshot": [
+      "/img/cases/rosenrot/4.jpg",
+      "/img/cases/rosenrot/2.jpg",
+      "/img/cases/rosenrot/3.jpg"
+    ]
+  },
+  {
+    "name": "World of Sports",
+    "description": "World of Sports is a Portuguese company specialized in caring for and managing the careers of athletes, especially football players.",
+    "ratio": 1.7821,
+    "screenshot": [
+      "/img/cases/world-of-sports/1.jpg",
+      "/img/cases/world-of-sports/2.jpg",
+      "/img/cases/world-of-sports/5.jpg"
+    ]
+  }
+]
